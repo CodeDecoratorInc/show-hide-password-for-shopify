@@ -1,4 +1,4 @@
-# Shopify Show/Hide Password Extension
+# Shopify Show/Hide Password App
 
 ## Introduction
 
